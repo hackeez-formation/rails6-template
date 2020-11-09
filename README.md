@@ -9,3 +9,7 @@ To use it, fork this repo, clone it,
 ```bundle install```
 
 ```rails db:create```
+
+```yarn add bootstrap```
+
+```rails server```
